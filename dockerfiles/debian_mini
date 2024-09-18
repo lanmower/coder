@@ -1,1 +1,1 @@
-FROM --platform=i386 codercom/code-server:latest
+FROM --platform=i386 codercom/code-server
