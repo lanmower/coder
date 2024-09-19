@@ -1,1 +1,1 @@
-FROM codercom/code-server
+FROM --platform=amd64 amd64/debian:buster
